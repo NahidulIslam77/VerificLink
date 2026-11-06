@@ -4,6 +4,7 @@ VerificLink is a full-stack platform built around a simple idea: professional an
 
 Instead of allowing users to list skills, projects, or research papers without proof, VerificLink requires them to go through server-graded assessments and verification processes. This gives recruiters a more reliable way to evaluate candidates, while helping applicants demonstrate what they can actually do.
 
+#What is implemented
 
 | Feature | Implementation |
 |---|---|
